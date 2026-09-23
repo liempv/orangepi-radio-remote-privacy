@@ -43,5 +43,5 @@ Chúng tôi **không** bán, chia sẻ hoặc truyền tải bất kỳ dữ li�
 
 Nếu bạn có bất kỳ thắc mắc hoặc đóng góp ý kiến nào liên quan đến Chính sách quyền riêng tư của **OrangePi Radio Remote**, vui lòng liên hệ:
 
-* **Email:** [liempv.ict@gmail.com]
-* **Website / Project Repository:** [https://liempv.github.io/orangepi-radio-remote-privacy]
+* **Email:** liempv.ict@gmail.com
+* **Website / Project Repository:** https://liempv.github.io/orangepi-radio-remote-privacy
